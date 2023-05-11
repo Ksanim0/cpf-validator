@@ -26,13 +26,13 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Ksanim0/Lab-Web_Edital
+  git clone https://github.com/Ksanim0/cpf-validator
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd Lab-Web_Edital
+  cd cpf-validator
 ```
 
 Entre no seu editor de códigos 
@@ -40,22 +40,6 @@ Entre no seu editor de códigos
 ```bash
   code.
 ```
-
-
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
-```
-
-
 
  
 
@@ -171,5 +155,3 @@ Fpdf aceitar caracteres especiais
 
 </a>
 
-
-<h1>👷‍♂️🚧 PROJETO EM CONTRUÇÃO 👷‍♂️🚧  </h1>
