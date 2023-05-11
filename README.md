@@ -95,47 +95,16 @@ INSERT/UPDATE/DELETE: uma ou várias dessas opções (separadas por vírgula) de
 
 Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc.
 
- 
-## Complicações durante o projeto
 
-Quais complicações você teve no seu código durante a criação?
-  
-Na implementação do bootstrap <br>
-A criação da tabela de classificados no HTML e CSS
-Fpdf aceitar caracteres especiais
- 
-## Linguagens e ferramentas utilizadas 
+## Ferramenta utilizada
 
 <div class="codes" align="float">
   <a href="https://www.google.com/amp/s/www.devmedia.com.br/amp/o-que-e-o-html5/25820" alt="HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 </div>
 
 
-<div class="codes" align="float">
-  <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css" alt="CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-</div>
-
-<div class="codes" align="float">
-  <a href="https://www.hostinger.com.br/tutoriais/o-que-e-javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-</div>
-
-<div class="codes" align="float">
-  <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" alt="PHP">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-</div>
-
-<div class="codes" align="float">
-  <a href="https://www.alura.com.br/artigos/o-que-e-git-github" alt="Git">
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-</div>
 
 
 
