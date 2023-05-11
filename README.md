@@ -43,8 +43,11 @@ Entre no seu editor de códigos
 
  
 
-## Aprendizados
-Java String replaceAll()
+## Functions 
+
+<h4>
+
+Java String replaceAll()/h4>
 
 The Java String class replaceAll() method returns a string replacing all the sequence of characters matching regex and replacement string.
 
@@ -63,7 +66,7 @@ Returns
 replaced string
 replaced string
 
-<h4>Gerar tabela dos dados inseridos de HTML para PDF</h4>
+
   
   - [Video utilizado como base](
 https://youtu.be/oYjseP_Qhv4?t=4242)
