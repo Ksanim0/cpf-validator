@@ -44,8 +44,24 @@ Entre no seu editor de códigos
  
 
 ## Aprendizados
+Java String replaceAll()
 
-O que aprendemos com esse projeto? Quais desafios enfrentamos e como os superamos?
+The Java String class replaceAll() method returns a string replacing all the sequence of characters matching regex and replacement string.
+
+Signature
+
+public String replaceAll(String regex, String replacement)  
+
+Parameters
+
+regex : regular expression
+
+replacement : replacement sequence of characters
+
+Returns
+
+replaced string
+replaced string
 
 <h4>Gerar tabela dos dados inseridos de HTML para PDF</h4>
   
