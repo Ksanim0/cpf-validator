@@ -137,9 +137,10 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 ## ✨ Contribuidores 
 
-<a href="https://github.com/Ksanim0/Lab-Web_Edital/graphs/contributors">
-
-  <img alt="Grid of profile icons of the 200+ contributors" src="https://contrib.rocks/image?repo=Ksanim0/Lab-Web_Edital" />
+<a href="https://github.com/Ksanim0/cpf-validator/graphs/contributors">
+ 
+  <img src="https://contrib.rocks/image?repo=Ksanim0/cpf-validator" />
+</a>" />
 
 </a>
 
