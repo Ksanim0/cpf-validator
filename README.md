@@ -119,7 +119,7 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 <div class="codes" align="float">
   <a href="https://www.google.com/amp/s/www.devmedia.com.br/amp/o-que-e-o-html5/25820" alt="HTML">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 </div>
 
